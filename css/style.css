@@ -29,14 +29,39 @@ a:hover {
 
 .soft-engine{
   font-size: 40px;
+  font-weight:bolder;
+  color: #ffbf00;
 }
 .soft-enginez{
   font-size: 40px;
-  color: #ffbf00;
+  color: #28a745;
+  font-weight: 900;
 }
 body{
   font-family: 'Merienda', cursive;
 }
 .futa{
   background-color:black;
+}
+#mine{
+ background-color: #28a745;
+ color: gold;
+}
+lugaga{
+  display:flex;
+  flex-wrap: wrap;
+  justify-content: center;
+
+}
+lugaga p img{
+  text-align: center;
+}
+#my-intro p{
+  text-align: center;
+}
+.fa-facebook-f{
+  color: #3b5998;
+}
+.fa-twitter{
+  color: #00acee;
 }
