@@ -1,0 +1,42 @@
+.hapa{
+ background-color: rgb(42, 165, 79);
+ border-radius: 5px;
+}
+#boomz{
+    flex-wrap: wrap;
+}
+a:hover { 
+    background-color: #ffbf00 ;
+    border-radius: 10px;
+    color:black;
+    font-weight: bolder;
+
+  }
+  html,
+  body,
+  header,
+  .carousel {
+    height: 100%;
+  }
+
+  @media (min-width: 800px) and (max-width: 980px) {
+          .navbar:not(.top-nav-collapse) {
+              background: #ffbf00!important;
+          }
+      }
+
+.carousel,.carousel .carousel-inner,.carousel .carousel-inner .active,.carousel .carousel-inner .carousel-item,.view,body,html{height:100%}.navbar{background-color:rgba(0,0,0,.2)}.page-footer,.top-nav-collapse{background-color:#1C2331}@media only screen and (max-width:768px){.navbar{background-color:#1C2331}}
+
+.soft-engine{
+  font-size: 40px;
+}
+.soft-enginez{
+  font-size: 40px;
+  color: #ffbf00;
+}
+body{
+  font-family: 'Merienda', cursive;
+}
+.futa{
+  background-color:black;
+}
