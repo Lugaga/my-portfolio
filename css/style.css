@@ -106,3 +106,15 @@ h3{
   color: #28a745;
   font-weight: bolder;
 }
+footer{
+
+ 
+  bottom: 0;
+  text-align: center;
+  background-color:#28a745;
+  color:gold;
+}
+body,html{
+overflow-x: hidden;
+
+}
