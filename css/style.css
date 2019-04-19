@@ -91,4 +91,18 @@ lugaga p img{
 h3{
   text-align: center;
 }
-
+.form-yangu{
+  margin-left: 20px;
+  margin-right: 20px;
+  
+}
+.button-yangu input{
+  background-color: #28a745;
+  color:gold;
+  font-weight: bolder;
+}
+.button-yangu input:hover{
+  background-color: #ffbf00;
+  color: #28a745;
+  font-weight: bolder;
+}
