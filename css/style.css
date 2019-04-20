@@ -63,7 +63,7 @@ lugaga p img{
   text-align: center;
 }
 
-#my-intro p{
+#intro-yangu p{
   text-align: center;
 }
 .fa-facebook-f{
@@ -75,7 +75,7 @@ lugaga p img{
 .fa-github{
   color: #1C2331;
 }
-#my-intro h2{
+#intro-yangu h2{
   text-align:center;
   font-weight:bolder;
 }
@@ -123,7 +123,7 @@ body,html{
 overflow-x: hidden;
 
 }
-#my-into>img{
+#intro-yangu>img{
   border-radius: 50%;
 }
 #ufc2 h3{
@@ -151,4 +151,16 @@ overflow-x: hidden;
 #resume>button{
 color:gold;
 float: left;
+margin-left: 30px;
+}
+.mimi img{
+float: left;
+}
+#more-stuff>a:hover{
+  color:gold;  
+  font-weight: bolder;
+}
+.active-yangu>a{
+  background-color: rgba(255, 217, 0, 0.863);
+  color: #28a745;
 }

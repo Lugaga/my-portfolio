@@ -5,6 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Lugaga | Portfolio</title>
+    <link rel="icon" href="img/favicon.ico" type="image/ico">
 <!-- Font Awesome -->
 <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css">
 <!-- Load an icon library to show a hamburger menu (bars) on small screens -->
@@ -27,7 +28,11 @@
     <div class="container">
 
       <!-- Brand -->
-      <a class="navbar-brand" href="https://mdbootstrap.com/docs/jquery/" target="_blank">
+      <div class="mimi">
+      <a href="index.html"><img src="./img/favicon.ico" height="32px" width="32px"/></a>
+      </div> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      <a class="navbar-brand" href="index.html">
+        
         <strong>Engineer Lugaga</strong>
       </a>
 
@@ -42,28 +47,27 @@
 
         <!-- Left -->
         <ul class="navbar-nav mr-auto">
-          <li class="nav-item active">
-            <a class="nav-link" href="#">Home
-              <span class="sr-only">(current)</span>
+          <li class="nav-item active-yangu">
+            <a class="nav-link" href="index.html">Home
             </a>
           </li>
           <li class="nav-item">
-            <a class="nav-link"  href="#my-intro" target="_blank">Who am i?</a>
+            <a class="nav-link"  href="#intro-yangu">Who am i?</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="" target="_blank">Work Experience</a>
+            <a class="nav-link" href="#job" >Work Experience</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="" target="_blank">Education</a>
+            <a class="nav-link" href="#education" >Education</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="" target="_blank">Projects</a>
+            <a class="nav-link" href="#projects" >Projects</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="" target="_blank">Hobbies</a>
+            <a class="nav-link" href="#hobbies" >Hobbies</a>
           </li>
           <li class="nav-item">
-              <a class="nav-link" href="" target="_blank">Reach me</a>
+              <a class="nav-link" href="#contact">Hire Me</a>
             </li>
         </ul>
 
@@ -127,13 +131,16 @@
               <p class="mb-4 d-none d-md-block soft-engine">
                 <strong>Software Engineering Student at Moringa School (PREP).</strong>
               </p>
-
-            <a type="button" href="#my-intro"class="btn btn-green">More About Me?</a>
+            <div id="more-stuff">
+              
+            <a type="button" href="#intro-yangu"class="btn btn-green">More About Me? <i class="fas fa-angle-double-down"></i></a>
+          
+            </div>
             </div>
             <!-- Content -->
 
           </div>
-          <!-- Mask & flexbox options-->
+         
 
         </div>
       </div>
@@ -151,7 +158,7 @@
 
   <!--Main layout-->
 <!--End My Navigation Bar-->
-<section style="margin-top:30px;" id="my-intro">
+<section style="margin-top:30px;" id="intro-yangu">
     <h2>About Me</h2>
     <lugaga>
         <div>
@@ -212,7 +219,7 @@
         <!-- /.First row -->
 </section>
 <!--Second container-->
-<div class="container-fluid" style="background-color: #f3f3f5;">
+<div class="container-fluid" style="background-color: #f3f3f5;" id="job">
         <div class="container py-4 pt-4">
 
             <!-- Second section -->
@@ -414,23 +421,24 @@
   <lugaga id="ufc2">
   <div>
   <img src="./img/school.png" alt="image" alt="ufc">
-  <h3><a href="http://">School Website</a></h3>
+  <h3><a href="https://lugaga.github.io/school-website-project/" target="_blank">School Website</a></h3>
   
 </div>
 <div>
     <img src="./img/games.gif" alt="image" alt="nba">
-    <h3><a href="http://">Tabasamu Nasi</a></h3> 
+    <h3><a href="https://lugaga.github.io/tabasamu-nasi/" target="blank">Tabasamu Nasi</a></h3> 
 </div>
 <div>
   <img src="./img/kenya.jpg" alt="image" alt="wwe">
-  <h3><a href="http://">Kenya Games</a></h3>
+  <h3><a href="https://lugaga.github.io/kenya-games/" target="_blank">Kenya Games</a></h3>
   
 </div>
 <div>
   <img src="./img/hello.jpeg" alt="image" alt="forza">
-<h3><a href="http://">Hello World!</a></h3>
+<h3><a href="https://lugaga.github.io/hello/" target="_blank">Hello World!</a></h3>
 
 </div>
+
 </lugaga>
 
 <!--Main layout-->
