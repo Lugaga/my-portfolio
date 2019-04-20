@@ -19,12 +19,7 @@ a:hover {
     height: 100%;
   }
 
-  @media (min-width: 800px) and (max-width: 980px) {
-          .navbar:not(.top-nav-collapse) {
-              background: #ffbf00!important;
-          }
-      }
-
+  
 .carousel,.carousel .carousel-inner,.carousel .carousel-inner .active,.carousel .carousel-inner .carousel-item,.view,body,html{height:100%}.navbar{background-color:rgba(0,0,0,.2)}.page-footer,.top-nav-collapse{background-color:#1C2331}@media only screen and (max-width:768px){.navbar{background-color:#1C2331}}
 
 .soft-engine{
@@ -138,4 +133,8 @@ overflow-x: hidden;
 }
 #ufc1 h3:hover{
   color: #28a745;
+}
+.objective{
+  margin-right: 20px;
+  margin-left: 20px;
 }
