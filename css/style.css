@@ -164,3 +164,12 @@ float: left;
   background-color: rgba(255, 217, 0, 0.863);
   color: #28a745;
 }
+.fa-mobile{
+  color: #28a745;
+}
+.fa-map-marker-alt{
+  color: #ffbf00
+}
+.fa-envelope{
+  color: #ffbf00
+}

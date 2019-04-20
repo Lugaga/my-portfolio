@@ -1,8 +1,8 @@
 # Project Name
 Lugaga  Portfolio.
 
-## Description
-    I. This is an independent project based on my online presence.
+## Project Description
+    I. This is an Independent Project based on my online presence.
     II. It shows my level of education, job experience, projects , the reason i chose to come to            Moringa School , interests and hobbies.
 
     
