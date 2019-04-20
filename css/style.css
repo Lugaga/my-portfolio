@@ -148,3 +148,7 @@ overflow-x: hidden;
   margin-right: 20px;
   margin-left: 20px;
 }
+#resume>button{
+color:gold;
+float: left;
+}
