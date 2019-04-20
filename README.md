@@ -3,12 +3,13 @@ Lugaga  Portfolio.
 
 ## Description
     1. This is an independent project based on my online presence.
-    2. It basically shows information about me ,My Portfolio online and the projects i have done.
-    3. Finally the services i can offer to those might need my services.  
+    2. It shows my level of education, job experience, projects , the reason i chose to come to            Moringa School , interests and hobbies.
+
+    
 
 ## Authors
 Lugaga Maurice Ngulu 
-@lugaga
+@lugaga >> https://github.com/Lugaga
 
 ## Technologies Used
 HTML5, CSS3, Material Design Bootstrap and Bitmoji
@@ -18,7 +19,7 @@ HTML5, CSS3, Material Design Bootstrap and Bitmoji
     2. Go through the website,if impressed,kindly reach me by filling the contact form or use the          contact information available on my website.
 
 ## Live Link
-https://marvzach.github.io/
+
 
 ## CONTACTS
     I. maureezgaga@gmail.com
