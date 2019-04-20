@@ -118,3 +118,24 @@ body,html{
 overflow-x: hidden;
 
 }
+#my-into>img{
+  border-radius: 50%;
+}
+#ufc2 h3{
+  margin-top: 20px;
+}
+#ufc2 a{
+  color: black;
+}
+#ufc2 a:hover{
+  color: #28a745;
+}
+#ufc1 a:hover{
+  color: #28a745;
+}
+#ufc1 h3{
+  margin-top:20px;
+}
+#ufc1 h3:hover{
+  color: #28a745;
+}
