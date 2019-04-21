@@ -149,7 +149,7 @@ overflow-x: hidden;
   margin-left: 20px;
 }
 #resume>button{
-color:gold;
+color: #fff;
 float: left;
 margin-left: 30px;
 }
@@ -172,4 +172,7 @@ float: left;
 }
 .fa-envelope{
   color: #ffbf00
+}
+.fa-asterisk{
+  color:red;
 }
