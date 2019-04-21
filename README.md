@@ -12,14 +12,14 @@ Lugaga Maurice Ngulu
 @lugaga >> https://github.com/Lugaga
 
 ## Technologies Utilized
-HTML5, CSS3, Material Design Bootstrap and Bitmoji
+HTML5, CSS3, JS, Material Design Bootstrap and Bitmoji.
 
 ## Setup Instructions
-    I. Search my repository on github or alternatively click here >> https://Lugaga.github.io/
+    I. Search my repository on github or alternatively click here >> https://lugaga.github.io/my-portfolio
     II. Go through the website,if impressed,kindly reach me by filling the contact form or use the          contact information available on my website.
 
 ## Live Link
-
+ https://lugaga.github.io/my-portfolio
 
 ## CONTACTS
     I. maureezgaga@gmail.com
